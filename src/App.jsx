@@ -5,7 +5,6 @@ import GlobalStyle from "./globalStyles"
 
 import {Home, Projects, About} from './pages'
 
-// Partial components.
 
 function App() {
 
